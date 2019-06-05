@@ -19,7 +19,7 @@
 ## 👩‍💻 What to do
 
 1. Fork the project via `github`
-2. Clone your forked repository project https://github.com/YOUR_USERNAME/sentiment-analysis-test
+2. Clone your forked repository project https://github.com/YOUR_USERNAME/synthesio-vision-test
 3. Commit and push your different modifications
 4. Don't forget to explain how to run your code and/or get your results
 5. Explain your choices, why you did things this way (in a file or in comments or the way you want)
