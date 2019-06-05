@@ -5,16 +5,17 @@
   - [👩‍💻 What to do](#user-content--what-to-do)
 
 ## 🎯 Goals
- - Implement a computer vision algorithm that is able to detect logos in the flickr-27 dataset:
+ - Implement a computer vision algorithm that is able to detect logos in the flickr-27 dataset
  - What would you do if you had to detect a new unlabelled logo?
  - Why the solution proposed in **https://arxiv.org/pdf/1803.11417.pdf** is adapted to "real-world  dynamic applications"? 
 
 ## 📖 Rules
 
   - Dataset location: http://image.ntua.gr/iva/datasets/flickr_logos/
-  - Provide a quick explanation of the proposed approach and the motivation 
+  - Provide a quick explanation of the proposed approach and the motivation behind it
   - Use Keras, Torch, or Tensorflow 
-  - You can used any pre-trained model
+  - You can use any pre-trained model
+  - Inference time performance must not be left out
 
 ## 👩‍💻 What to do
 
