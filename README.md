@@ -1,6 +1,5 @@
 # Synthesio Vision Test
 
-- [Synthesio Vision Test](#Synthesio Vision Test)
   - [🎯 Goals](#user-content--goals)
   - [📖 Rules](#user-content--rules)
   - [👩‍💻 What to do](#user-content--what-to-do)
